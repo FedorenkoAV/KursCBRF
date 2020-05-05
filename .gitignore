@@ -77,3 +77,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/java,kotlin,windows,netbeans
+/info.xml
+/latestdate.xml
+/nbproject/
+/manifest.mf
